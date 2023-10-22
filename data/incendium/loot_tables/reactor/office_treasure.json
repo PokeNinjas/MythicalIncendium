@@ -200,21 +200,6 @@
           ]
         }
       ]
-    },
-    {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:item",
-          "name": "ancient_debris",
-          "weight": 4
-        },
-        {
-          "type": "minecraft:item",
-          "name": "netherite_scrap",
-          "weight": 4
-        }
-      ]
     }
   ]
 }

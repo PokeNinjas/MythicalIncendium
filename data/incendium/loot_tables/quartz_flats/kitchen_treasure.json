@@ -2,21 +2,6 @@
   "type": "minecraft:chest",
   "pools": [
     {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:loot_table",
-          "name": "incendium:artifact/patron/holy_wrath",
-          "conditions": [
-            {
-              "condition": "minecraft:random_chance",
-              "chance": 0.05
-            }
-          ]
-        }
-      ]
-    },
-    {
       "rolls": 3,
       "entries": [
         {
@@ -93,11 +78,6 @@
               }
             }
           ]
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 1,
-          "name": "minecraft:netherite_scrap"
         },
         {
           "type": "minecraft:item",

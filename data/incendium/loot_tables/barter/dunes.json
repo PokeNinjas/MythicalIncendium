@@ -285,7 +285,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "stone_shovel",
+          "name": "minecraft:stone_shovel",
           "weight": 10,
           "functions": [
             {
@@ -313,7 +313,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "diamond_shovel",
+          "name": "minecraft:diamond_shovel",
           "weight": 0.5,
           "functions": [
             {

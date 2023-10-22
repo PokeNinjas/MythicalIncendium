@@ -143,34 +143,6 @@
               ]
             }
           ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:netherite_chestplate",
-          "weight": 1,
-          "functions": [
-            {
-              "function": "minecraft:set_damage",
-              "damage": {
-                "min": 0,
-                "max": 0.3
-              }
-            },
-            {
-              "function": "minecraft:enchant_with_levels",
-              "levels": {
-                "min": 15,
-                "max": 30
-              },
-              "treasure": true,
-              "conditions": [
-                {
-                  "condition": "minecraft:random_chance",
-                  "chance": 0.4
-                }
-              ]
-            }
-          ]
         }
       ],
       "conditions": [
